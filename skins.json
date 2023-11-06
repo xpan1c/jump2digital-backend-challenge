@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Skin Alpha",
+    "price": 10,
+    "color": "RED",
+    "type": "WEAPON"
+  },
+  {
+    "name": "Skin Beta",
+    "price": 13,
+    "color": "BLUE",
+    "type": "ARMOR"
+  },
+  {
+    "name": "Skin Gamma",
+    "price": 16,
+    "color": "GREEN",
+    "type": "SHIELD"
+  },
+  {
+    "name": "Skin Delta",
+    "price": 20,
+    "color": "YELLOW",
+    "type": "WEAPON"
+  }
+]
