@@ -19,10 +19,10 @@ Retrieve specific skin details by ID.
 The API provides several endpoints for managing skins as well as user authentication:
 - `GET /skins/available`: Retrieves a list of all available skins.
 - `POST /skins/buy`: Enables a user to purchase a skin.
-- `GET /skins/mySkins`: Fetches a list of skins owned by the user.
-- `PUT /skins/color`: Allows a user to change the color of a purchased skin.
-- `DELETE /skins/delete/{id}`: Removes a skin from the user's inventory.
-- `GET /skin/getSkin/{id}`: Gets details of a specific skin.
+- ~~`GET /skins/mySkins`: Fetches a list of skins owned by the user.~~
+- ~~`PUT /skins/color`: Allows a user to change the color of a purchased skin.~~
+- ~~`DELETE /skins/delete/{id}`: Removes a skin from the user's inventory.~~
+- ~~`GET /skin/getSkin/{id}`: Gets details of a specific skin.~~
   
 For user authentication:
 
